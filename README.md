@@ -1,0 +1,2 @@
+# mango
+Golang project toolkit
